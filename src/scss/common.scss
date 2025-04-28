@@ -389,7 +389,7 @@ div {
   filter: grayscale(70%) contrast(50%) brightness(0.9); /*회색변환/대비/밝기*/
 }
 .category:hover .category_list{
-  display: block;
+  display: flex;
 }
 .category_list li:hover{
   filter: none; 
